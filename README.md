@@ -1,6 +1,7 @@
 
 
-![Project_Name](https://github.com/user-attachments/assets/dbbb3531-bb1d-4241-9127-32fb3ff4a952)
+<p align="center"> <img width="700" height="700" alt="Untitled180_20260118140517" src="https://github.com/user-attachments/assets/45f00d0e-b999-49b3-bc3e-f2fe01c86fa7" />
+
 
 
    <p align="center"> <Img src="https://readme-typing-svg.demolab.com?font=Sansita&size=20&duration=3000&pause=200&color=ffccff&background=f6b2be600&width=435&lines=My+Brother+Told+Me+Hes+gonna+kill+Himself+Tonight;With+A+Whole+Bottle+Of+Prozac+Or+A+Shiny+Kitchen+Knife;He+Says+When+Hes+Dead,+I'll+Have+His+Nintendo64;And+I+Could+Play+It+All+Night+Long;Sitting+On+The+Basement+Floor+...;I+Miss+You+Dearly+Dazai+I+Wish+We+Could've-;Been+More+-Atsu+/+Atsushi." alt="Typing SVG" />
