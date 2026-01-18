@@ -4,41 +4,19 @@
 
 
 
-   <p align="center"> <Img src="https://readme-typing-svg.demolab.com?font=Sansita&size=20&duration=3000&pause=200&color=ffccff&background=f6b2be600&width=435&lines=My+Brother+Told+Me+Hes+gonna+kill+Himself+Tonight;With+A+Whole+Bottle+Of+Prozac+Or+A+Shiny+Kitchen+Knife;He+Says+When+Hes+Dead,+I'll+Have+His+Nintendo64;And+I+Could+Play+It+All+Night+Long;Sitting+On+The+Basement+Floor+...;I+Miss+You+Dearly+Dazai+I+Wish+We+Could've-;Been+More+-Atsu+/+Atsushi." alt="Typing SVG" />
+   <p align="center"> <Img src="https://readme-typing-svg.demolab.com?font=Sansita&size=20&duration=3000&pause=200&color=d1d9e3&background=f6b2be600&width=435&lines=If+there+was+a+choice+To+be+scraping+by-y;On+my+own+time+I'd+be+stranded+on+i-isles,;been+walking+for+miles;As+it+seems+by+the+sea+I'm+afraid+it'll+stick+permanently;If+I+don't+move+and+I+can't+see;I+choose+the+latter,+choose+the+latter;If+I+can+fall+and+I+can't+breathe;I+chute+the+latter,+chute+the+latter." alt="Typing SVG" />
 
-<p align="center">${\textsf{\color{#cc99ff}The ✧ Forest ✧ Syst3m!~ }}$
+<p align="center">${\textsf{\color{#c2ccda}The ✧ Forest ✧ Syst3m!~ }}$
 
-<p align="center">${\textsf{\color{#9999ff}4teen-6teen + DID/OSDD }}$
+<p align="center">${\textsf{\color{#b3bfd1}4teen-7teen + Suspected DID/OSDD System }}$
 
- <p align="center">${\textsf{\color{#6699ff} block freely + Iwec with fictives }}$
+ <p align="center">${\textsf{\color{#a4b2c8} We Hide / block freely + Iwec with fictives }}$
 
-<p align="center">${\textsf{\color{#3399ff} Ftm collective + They / hy / he collective}}$
+<p align="center">${\textsf{\color{#95a5bf} Finn / forest collective + They / hy + Masc/Nh/Nb Trms only }}$
  
- <p align="center">${\textsf{\color{#0099ff} Basic dni criteria + in a poly rs + read strawpage for dni n Int}}$
+ <p align="center">${\textsf{\color{#8599b5} Basic dni criteria + in a poly rs + read strawpage for dni n Int}}$
 </details>
 
-<details>
-  <summary>System user boxes {That we or alters relate to}</summary>
-<img width="200 height="200" alt="image" src="https://files.catbox.moe/r7cj5r.jpg" /> <img width="200 height="200" alt="image" src="https://files.catbox.moe/5iomdz.jpg" /> <img width="200 height="200" alt="image" src="https://files.catbox.moe/bgdwr7.jpg" /> <img width="350 height="50000" alt="image" src="https://files.catbox.moe/gc27fx.jpg" /> <img width="200 height="50000" alt="image" src="https://files.catbox.moe/xtlwxs.jpg" /> <img width="200 height="50000" alt="image" src="https://files.catbox.moe/zsf1qk.jpg" /> <img width="200 height="50000" alt="image" src="https://files.catbox.moe/t2udcf.jpg" /> <img width="200 height="50000" alt="image" src="https://files.catbox.moe/socn5j.jpg" /> <img width="200 height="50000" alt="image" src="https://files.catbox.moe/509ugj.jpg" /> <img width="200 height="50000" alt="image" src="https://files.catbox.moe/oi8oee.jpg" /> <img width="200 height="50000" alt="image" src="https://files.catbox.moe/olr7zg.jpeg" /> <img width="200 height="50000" alt="image" src="https://files.catbox.moe/vcje3t.jpeg" /> <img width="200 height="50000" alt="image" src="https://files.catbox.moe/wm61bf.jpeg" />
  
- 
-</details>
 
-<details>
-  <summary>Alters{At least the most active ones}</summary>
- 
-🩹.15zai ; He / blood / gun / f*g / bullet / they / hy 
- 
-🐏.15chuu ; He / sheep / they / hy / comp / computers / computerself
-
-📱.Seth ; He / it
-
-🍎.Jay ; They / he / hy / pup / paw / gun / blood / [riv / rivers ]  / tired / sleep {Mostly male or non-binary alligned pronouns is fine}
-
-🛡️. Mike Wheeler ; He / they / sword / paldin / shield / dead / [ light / crackers / lightcrackerself ]
-
-⛓️‍💥.Will Byers ; He / they / [walkie / talkie's / walkietalkieself ] / mic
-
-</details>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rainy-chaos-sys&color=009987&style=for-the-badge&label=++++++droplets++++++&base=4274"></img></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rainy-chaos-sys&color=768cac&style=for-the-badge&label=++++++droplets++++++&base=4274"></img></p>
