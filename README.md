@@ -14,7 +14,7 @@
 
 <p align="center">${\textsf{\color{#95a5bf} Finn / forest collective + They / hy + Masc/Nh/Nb Trms only }}$
  
- <p align="center">${\textsf{\color{#8599b5} Basic dni criteria + in a poly rs + read strawpage for dni n Int}}$
+ <p align="center">${\textsf{\color{#8599b5} Basic dni criteria + in a poly rs + read strawpage for dni n Int + Non-sharing Yume of Finn wolfhard himself }}$
 </details>
 
  
